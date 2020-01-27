@@ -1,9 +1,6 @@
 import * as WebBrowser from 'expo-web-browser';
 import React, { Component } from 'react';
 import {
-  Image,
-  Platform,
-  ScrollView,
   StyleSheet,
   Text,
   TouchableOpacity,
@@ -15,7 +12,6 @@ import { ActionSheetCustom as ActionSheet } from 'react-native-actionsheet'
  
 import { MonoText } from '../components/StyledText';
 import Icon from 'react-native-vector-icons/Entypo';
-
 import Icons from 'react-native-vector-icons/Ionicons';
 import { withNavigation } from 'react-navigation';
 
