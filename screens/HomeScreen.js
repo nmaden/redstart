@@ -189,7 +189,8 @@ const styles = StyleSheet.create({
       borderBottomColor: '#ccc',
       borderBottomWidth: 1,
     
-      padding: 10
+      paddingTop: 10,
+      paddingBottom: 10,
   
    
   },
