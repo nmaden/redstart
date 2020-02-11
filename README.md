@@ -1,6 +1,6 @@
 # redstart
 
-нужные команды при запуске RN
+команды при запуске RN
 
 npm install
 npm install -g expo-cli
